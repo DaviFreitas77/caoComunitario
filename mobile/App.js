@@ -56,7 +56,7 @@ function TabNavigator() {
 
         tabBarLabel: () => null,
         tabBarIcon: ({ color, size }) => (
-          <Ionicons name="add-circle" size={50} color="#ccf3dc" />
+          <Ionicons name="add-circle" size={40} color="#ccf3dc" />
         ),
 
         tabBarStyle: { display: 'none' }
