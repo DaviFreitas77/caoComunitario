@@ -16,10 +16,10 @@ O **Cão Comunitário** é um aplicativo desenvolvido para conectar pessoas que 
 
 ## 📸 Screenshots
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/c8520fa4-d77b-4a70-9d0e-b9fca378191f" width="250" />
-  <img src="https://github.com/user-attachments/assets/06c220b3-3af7-4040-ba7a-aeab317dead6" width="250" />
-  <img src="https://github.com/user-attachments/assets/e2c27dc7-f8a2-4838-863b-54a081c68de5" width="250" />
-  <img src="https://github.com/user-attachments/assets/11cb1856-940d-4497-b801-e3c08fa0b440" width="250" />
+   <img src="https://github.com/user-attachments/assets/c8520fa4-d77b-4a70-9d0e-b9fca378191f" width="200" />
+  <img src="https://github.com/user-attachments/assets/06c220b3-3af7-4040-ba7a-aeab317dead6" width="200" />
+  <img src="https://github.com/user-attachments/assets/e2c27dc7-f8a2-4838-863b-54a081c68de5" width="200" />
+  <img src="https://github.com/user-attachments/assets/11cb1856-940d-4497-b801-e3c08fa0b440" width="200" />
 </p>
 
 ## 🎯 Objetivo do Projeto
